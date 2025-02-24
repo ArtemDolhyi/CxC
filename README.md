@@ -36,8 +36,8 @@ Starting with a dataset containing **87 indicators**, we carefully selected a su
    
 2. **Visual Exploration:**  
    - Generated a **correlation heatmap** to explore relationships among indicators.  
-     *[img_1_Correlation_Heatmap: A visual summary of correlations among the 87 indicators]*
-
+     ![Corelation indicators.png](img/Corelation indicators.png)
+      
 ---
 
 ## 3. Index Construction
@@ -83,8 +83,8 @@ This transparent calculation provides a straightforward measure of multidimensio
 - **Interpretation:**  
   The dominance of PC1 indicates that a single composite dimension—largely driven by infrastructure (clean fuels and electricity) and health/education metrics—captures most of the variance among countries.
 
-> **Scree Plot:** [img_2_Scree_Plot: Graph showing variance explained by each principal component]  
-> **Biplot:** [img_3_PCA_Biplot: Plot displaying countries in PC1-PC2 space along with indicator loadings]
+![ScreePlot](img/PCA ScrePlot.png)
+![PCA Biplot.png](img/PCA Biplot.png)
 
 ### Correlation Analysis
 The correlation of each indicator with **MPI_Composite** is as follows:
@@ -114,7 +114,7 @@ For the year **2020**, our analysis identified the following bottom 10 countries
 | Somalia                      | 0.19230           | For Somalia, focus on: Promote clean cooking technologies & household energy solutions; Improve rural electrification & power infrastructure.                   |
 | Mozambique                   | 0.19232           | For Mozambique, focus on: Promote clean cooking technologies & household energy solutions; Improve rural electrification & power infrastructure.               |
 
-> **Bottom 10 Countries Bar Chart:** [img_4_Bottom_10_Bar_Chart: Bar chart showing MPI_Composite scores of the bottom 10 countries in 2020]
+![Bottom_10_Bar_Chart: Bar chart showing MPI_Composite scores of the bottom 10 countries in 2020](img/MPIComposite top 10.png)
 
 ---
 
