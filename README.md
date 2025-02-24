@@ -10,8 +10,7 @@
 3. [Index Construction](#index-construction)  
 4. [Key Insights and Results](#key-insights-and-results)  
 5. [Policy Recommendations](#policy-recommendations)  
-6. [Next Steps](#next-steps)  
-7. [References](#references)
+6. [References](#references)
 
 ---
 
